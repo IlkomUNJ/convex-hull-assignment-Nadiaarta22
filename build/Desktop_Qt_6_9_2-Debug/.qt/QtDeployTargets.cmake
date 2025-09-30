@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_Tugas1Komgraf_FILE /home/nadia/Tugas1Komgraf/build/Desktop_Qt_6_9_2-Debug/Tugas1Komgraf)
+set(__QT_DEPLOY_TARGET_Tugas1Komgraf_TYPE EXECUTABLE)

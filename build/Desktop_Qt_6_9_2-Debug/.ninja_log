@@ -1,0 +1,14 @@
+# ninja log v5
+3	434	1759227103781046695	Tugas1Komgraf_autogen/timestamp	c8a38040069ef292
+3	434	1759227103781046695	Tugas1Komgraf_autogen/mocs_compilation.cpp	c8a38040069ef292
+3	434	1759227103781046695	/home/nadia/Tugas1Komgraf/build/Desktop_Qt_6_9_2-Debug/Tugas1Komgraf_autogen/timestamp	c8a38040069ef292
+3	434	1759227103781046695	/home/nadia/Tugas1Komgraf/build/Desktop_Qt_6_9_2-Debug/Tugas1Komgraf_autogen/mocs_compilation.cpp	c8a38040069ef292
+436	5045	1759227108382597294	CMakeFiles/Tugas1Komgraf.dir/main.cpp.o	5e719e0a247a0d8
+436	5046	1759227108377597779	CMakeFiles/Tugas1Komgraf.dir/mainwindow.cpp.o	8542ac50c9be7df1
+436	5046	1759227108374598071	CMakeFiles/Tugas1Komgraf.dir/Tugas1Komgraf_autogen/mocs_compilation.cpp.o	472c47536f429c16
+8	47	1759227248345686098	Tugas1Komgraf_autogen/timestamp	c8a38040069ef292
+8	47	1759227248345686098	Tugas1Komgraf_autogen/mocs_compilation.cpp	c8a38040069ef292
+8	47	1759227248345686098	/home/nadia/Tugas1Komgraf/build/Desktop_Qt_6_9_2-Debug/Tugas1Komgraf_autogen/timestamp	c8a38040069ef292
+8	47	1759227248345686098	/home/nadia/Tugas1Komgraf/build/Desktop_Qt_6_9_2-Debug/Tugas1Komgraf_autogen/mocs_compilation.cpp	c8a38040069ef292
+50	3200	1759227301687691488	CMakeFiles/Tugas1Komgraf.dir/drawingwidget.cpp.o	bb957384f1471c1b
+3200	3796	1759227302289647394	Tugas1Komgraf	51b5beba23aefabd

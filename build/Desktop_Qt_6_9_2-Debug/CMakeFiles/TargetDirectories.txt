@@ -1,0 +1,9 @@
+/home/nadia/Tugas1Komgraf/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/Tugas1Komgraf.dir
+/home/nadia/Tugas1Komgraf/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/edit_cache.dir
+/home/nadia/Tugas1Komgraf/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/nadia/Tugas1Komgraf/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/list_install_components.dir
+/home/nadia/Tugas1Komgraf/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install.dir
+/home/nadia/Tugas1Komgraf/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install/local.dir
+/home/nadia/Tugas1Komgraf/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install/strip.dir
+/home/nadia/Tugas1Komgraf/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/Tugas1Komgraf_autogen_timestamp_deps.dir
+/home/nadia/Tugas1Komgraf/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/Tugas1Komgraf_autogen.dir
