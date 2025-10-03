@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-18c1d809db8d69d2d763.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Tugas1Komgraf",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Tugas1Komgraf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tugas1Komgraf-Debug-b43178b4fde0771b6ec1.json",
+					"name" : "Tugas1Komgraf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tugas1Komgraf_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tugas1Komgraf_autogen-Debug-7a08cdbf6429d41f3f1b.json",
+					"name" : "Tugas1Komgraf_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tugas1Komgraf_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tugas1Komgraf_autogen_timestamp_deps-Debug-ef89c9d104e01625261f.json",
+					"name" : "Tugas1Komgraf_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nadia/Tugas1Komgraf/build/Desktop_Qt_6_9_2-Debug",
+		"source" : "/home/nadia/Tugas1Komgraf"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
